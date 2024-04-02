@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sair
+- 👋 Hi, I’m Sari
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning about tech
-- 📫 How to reach me https://sari-abdulla.web.app
+- 🌱 I’m currently learning about technology
+- 📫 How to reach me -> https://sari-abdulla.web.app
 - ⚡ Fun fact: alone with coding
 
 <!---
